@@ -1,0 +1,7 @@
+104,Bhaktapur,West,8,80000,Available
+105,Biratnagar,Northeast,6,70000,Not Available
+106,Butwal,Southeast,3,45000,Not Available
+107,Dharan,Northwest,7,85000,Available
+108,Janakpur,Southwest,9,95000,Not Available
+109,Hetauda,Central,12,120000,Available
+110,Damak,Far East,15,150000,Available
